@@ -1,1 +1,1 @@
-![Facial Recognition Preview](screenshot.png)
+![Facial Recognition Preview](screenshot.jpg)
